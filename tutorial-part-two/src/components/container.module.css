@@ -1,0 +1,14 @@
+/* This is a tutorial 'Build a new page using CSS Modules' */
+
+.container {
+  margin: 3rem auto;
+  max-width: 600px;
+  min-width: 200px;
+  background-color: cadetblue;
+}
+h1 {
+  color: olive;
+}
+.text {
+  color: darkblue;
+}
