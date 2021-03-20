@@ -22,13 +22,18 @@
 Mac, Windows, ubuntu など
 
 Mac だと Homebrew, Xcode, Node.js, npm まで教えてくれます
-親切だなー
+
+親切です
+めちゃくちゃ親切
 
 npm 推奨
+
 gatsby-cli は yarn でインストールするとエラーが出て大変なことになります
-（でもプラグインとかは yarn でやってしまいました）
+
+（でもプラグインとかは慣れてる yarn でやってしまいました……）
 
 gatsby-cli は現状インストールすると v3 になります
+
 スターターは v2 が多いのでお気をつけください
 
 
@@ -42,6 +47,7 @@ React 使っている方は流し見で十分かと
 ## 2. Introduction to Styling in Gatsby
 
 CSS 適用方法と CSS Modules の利用方法だけ
+
 CSS-in-JS とか他の方法もあるけどカバーし切れないのでそれは各自で調べてとのことー
 
 [スタイルについてはここら辺から](https://www.gatsbyjs.com/docs/how-to/styling/styled-components/)
@@ -101,15 +107,16 @@ slug or path を使ってマークダウンから記事を生成します
 # After finished
 
 技術ログを残したいので Gatsby + Netlify でやろうと思ったけど
+
 スターターいっくらやっても全然動きそうもなく
 
 これは多分、最近 gatsby-cli が v3 に変更になって、v3 対応のスターターが全然ないことが原因だと思いますが
-当初は全然原因もわからず、
-仕方ないのでチュートリアルからやるか〜、とやってみました
 
-がすごい親切で簡単でした
+当初は全然原因もわからず、仕方ないのでチュートリアルからやるか〜、とやってみました
 
-自前でログ作ってみたいと思います
+蓋を開けたらめちゃくちゃ親切で簡単でした
+
+この後も [How-to guides](https://www.gatsbyjs.com/docs/how-to/) 参照して自前でログ作ってみたいと思います！
 
 
 [Syk](https://github.com/SayakaNakajima) 2021/3/20
