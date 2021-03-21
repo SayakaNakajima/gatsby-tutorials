@@ -99,9 +99,8 @@ slug or path を使ってマークダウンから記事を生成します
 
 ## 8. Preparing a Site to Go Live
 
-未着手
-
 [Lighthouse audit](https://developers.google.com/web/tools/lighthouse/) を使用したサイト診断を実施します
+
 
 
 # After finished
